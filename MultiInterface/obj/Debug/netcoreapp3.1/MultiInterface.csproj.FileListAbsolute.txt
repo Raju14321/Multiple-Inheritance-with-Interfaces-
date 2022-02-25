@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\MultiInterface\bin\Debug\netcoreapp3.1\MultiInterface.exe
+C:\Users\jacob\source\repos\MultiInterface\bin\Debug\netcoreapp3.1\MultiInterface.deps.json
+C:\Users\jacob\source\repos\MultiInterface\bin\Debug\netcoreapp3.1\MultiInterface.runtimeconfig.json
+C:\Users\jacob\source\repos\MultiInterface\bin\Debug\netcoreapp3.1\MultiInterface.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\MultiInterface\bin\Debug\netcoreapp3.1\MultiInterface.dll
+C:\Users\jacob\source\repos\MultiInterface\bin\Debug\netcoreapp3.1\MultiInterface.pdb
+C:\Users\jacob\source\repos\MultiInterface\obj\Debug\netcoreapp3.1\MultiInterface.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\MultiInterface\obj\Debug\netcoreapp3.1\MultiInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\MultiInterface\obj\Debug\netcoreapp3.1\MultiInterface.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\MultiInterface\obj\Debug\netcoreapp3.1\MultiInterface.AssemblyInfo.cs
+C:\Users\jacob\source\repos\MultiInterface\obj\Debug\netcoreapp3.1\MultiInterface.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\MultiInterface\obj\Debug\netcoreapp3.1\MultiInterface.dll
+C:\Users\jacob\source\repos\MultiInterface\obj\Debug\netcoreapp3.1\MultiInterface.pdb
+C:\Users\jacob\source\repos\MultiInterface\obj\Debug\netcoreapp3.1\MultiInterface.genruntimeconfig.cache
